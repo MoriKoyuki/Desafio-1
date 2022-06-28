@@ -65,7 +65,6 @@ main{
     margin-top: 15vh;
     display: flex;
     align-items: center;
-    border: #212121 3px solid;
 }
 
 .text-area{
